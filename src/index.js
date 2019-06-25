@@ -9,3 +9,8 @@ import store from './store/index';
 let Pro = <Provider store={store}><LocaleProvider locale={zhCN}><App /></LocaleProvider></Provider>
 ReactDOM.render(Pro, document.getElementById('root'));
 
+
+
+/*
+    盗墓笔记之七星鲁王宫
+*/
