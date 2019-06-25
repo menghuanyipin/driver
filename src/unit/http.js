@@ -3,7 +3,7 @@ import axios from "axios";
 const HTTP_K1 = "kemu1"; //科目1
 const HTTP_K4 = "kemu4"; //科目4
 
-
+// 默认导出
 export default class Http {
   static common(path, page) {
     var obj = {
